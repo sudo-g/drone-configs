@@ -33,7 +33,7 @@
   <profile>
     <P>
       <int>11</int>
-      <int>11</int>
+      <int>9</int>
       <int>10</int>
     </P>
     <I>
@@ -48,7 +48,7 @@
     </D>
     <power>
       <int>50</int>
-      <int>85</int>
+      <int>70</int>
       <int>50</int>
     </power>
     <invert>
@@ -100,8 +100,8 @@
     <pwmFreq>1</pwmFreq>
     <serialSpeed>0</serialSpeed>
     <rcTrim>
-      <int>-2896</int>
-      <int>-4154</int>
+      <int>-80</int>
+      <int>-58</int>
       <int>0</int>
     </rcTrim>
     <rcDeadband>15</rcDeadband>
