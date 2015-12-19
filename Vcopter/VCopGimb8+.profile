@@ -48,7 +48,7 @@
     </D>
     <power>
       <int>50</int>
-      <int>50</int>
+      <int>85</int>
       <int>50</int>
     </power>
     <invert>
@@ -66,13 +66,13 @@
       <int>0</int>
     </extFCGain>
     <rcMinAngle>
-      <int>-45</int>
-      <int>-45</int>
+      <int>-55</int>
+      <int>-90</int>
       <int>-45</int>
     </rcMinAngle>
     <rcMaxAngle>
-      <int>45</int>
-      <int>45</int>
+      <int>40</int>
+      <int>54</int>
       <int>45</int>
     </rcMaxAngle>
     <rcMode>
@@ -87,7 +87,7 @@
     </rcLPF>
     <rcSpeed>
       <int>10</int>
-      <int>10</int>
+      <int>15</int>
       <int>10</int>
     </rcSpeed>
     <rcFollow>
@@ -100,8 +100,8 @@
     <pwmFreq>1</pwmFreq>
     <serialSpeed>0</serialSpeed>
     <rcTrim>
-      <int>0</int>
-      <int>0</int>
+      <int>-2896</int>
+      <int>-4154</int>
       <int>0</int>
     </rcTrim>
     <rcDeadband>15</rcDeadband>
