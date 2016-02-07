@@ -66,13 +66,13 @@
       <int>0</int>
     </extFCGain>
     <rcMinAngle>
-      <int>-55</int>
-      <int>-90</int>
+      <int>-30</int>
+      <int>-30</int>
       <int>-45</int>
     </rcMinAngle>
     <rcMaxAngle>
-      <int>40</int>
-      <int>54</int>
+      <int>80</int>
+      <int>120</int>
       <int>45</int>
     </rcMaxAngle>
     <rcMode>
